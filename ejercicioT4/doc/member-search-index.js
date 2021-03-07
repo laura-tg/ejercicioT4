@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ejercicioT4","c":"ejercicioT4","l":"ejercicioT4()","u":"%3Cinit%3E()"},{"p":"ejercicioT4","c":"ejercicioT4","l":"generarPrimos(int)"},{"p":"ejercicioT4","c":"ejercicioT4","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
